@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+
+a{text-decoration: none;}
+
+.header{
+    width: auto;
+    height: 15em;
+    background-color: black;
+}
+.header div{
+    width: 50em;
+    height: 15em;
+    margin: auto;
+    padding: 1em;
+}
+
+.title, .description{
+    color: white;
+}
+
+.page{
+    width: 50em;
+    height: auto;
+    margin: auto;
+}
+
+.article-title,
+.continue-reading{
+    text-decoration: none;
+    color: blue;
+}
